@@ -1,7 +1,15 @@
 # General TODOs
 
-## Startup Scripts
+## Basic Startup Scripts
 
-# Applications
+### Applications
 
-## Files
+### Connections
+1. SSH connnections
+
+---------------
+**Advanced/Unknown Integration**
+---------------
+
+
+## Secondary Startup

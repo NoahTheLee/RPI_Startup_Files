@@ -24,6 +24,11 @@ set_background(){
 
 }
 
+install_vsc_extensions(){
+    echo "Installing Visual Studio Code extensions..."
+    
+}
+
 pair_bluetooth
 set_background
 

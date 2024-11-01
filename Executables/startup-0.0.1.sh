@@ -21,6 +21,7 @@ install_necessary_apps() {
 # Setting a background image the desktop
 set_background(){
     echo "Setting background image..."
+    echo "pcmanfm --set-wallpaper /path/to/file" # need to get link for this later
 
 }
 

@@ -1,1 +1,1 @@
-sudo apt install -y python3 && sudo apt install -y apache2 && sudo apt install -y nginx
+echo "Installing Apache2" ; sudo apt install -y apache2 ; echo "Installing Nginx" ; sudo apt install -y nginx

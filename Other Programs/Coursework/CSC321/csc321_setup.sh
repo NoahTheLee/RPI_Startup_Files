@@ -1,0 +1,2 @@
+echo "Setting up CSC321 Webserver Environment...";
+curl -sSL https://raw.githubusercontent.com/NoahTheLee/RPI_Startup_Files/refs/heads/main/Other%20Programs/Coursework/CSC321/installers/csc321_webservers.sh | more

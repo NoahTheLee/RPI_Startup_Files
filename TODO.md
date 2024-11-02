@@ -25,3 +25,12 @@ b. check if it can pair without the mouse needing to request it first
 
 
 ## Secondary Startup
+
+### School Stuff
+1. CSC321
+a. Final check apache2 and nginx installs
+b. Stop both services
+c. Set ports
+i. Use sed command?
+d. Open ports
+e. Configure enablign on startup

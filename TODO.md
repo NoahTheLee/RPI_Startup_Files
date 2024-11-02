@@ -20,7 +20,7 @@
     1. Get mouse mac
     2. check if it can pair without the mouse needing to request it first
 ---------------
-**Advanced/Unknown Integration**
+# Advanced/Unknown Integration
 
 
 ## Secondary Startup

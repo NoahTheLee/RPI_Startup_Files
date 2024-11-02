@@ -30,7 +30,4 @@ install_vsc_extensions(){
     
 }
 
-pair_bluetooth
-set_background
-
 echo "Setup completed!"
